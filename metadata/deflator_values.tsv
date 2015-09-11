@@ -2128,5 +2128,7 @@ transaction_year,value,donor,donor_iso3,donor_id
 2014,106.11469632,Sweden,SWE,46
 2013,109.9112,Canada,CAN,8
 2014,111.864603,Canada,CAN,8
-2013,105.773938549553,multidonor,DAC,
-2014,106.687813012036,multidonor,DAC,
+2013,105.7739385496,multidonor,DAC,
+2014,106.687813012,multidonor,DAC,
+2013,107.62243925,United States,USA,52
+2014,109.189137,United States,USA,52
